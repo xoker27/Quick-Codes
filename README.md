@@ -1,2 +1,2 @@
 # Quick-Codes
-Some interesting problems solved for future(if there is any!)
+Some interesting problems solved for future reference(if there is any!)
