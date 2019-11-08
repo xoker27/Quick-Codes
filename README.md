@@ -1,2 +1,2 @@
 # Quick-Codes
-Some interesting problems solved for future reference(if there is any!)
+Problems solved on platform like GeeksForGeeks, HackerRank, HackerEarth, Code Chef etc.
